@@ -18,4 +18,5 @@ Consultora: Mireia Calvo Gonzalez
 
 Dataset
 Puede chequear el dataset en la siguiente dirección:
-https://github.com/Bengis/nba-gap-cleaning/blob/master/data/nba_out.csv
+https://github.com/marmartnz/Practica-2-Tipologia/tree/master/data/datosTitanic.txt
+
